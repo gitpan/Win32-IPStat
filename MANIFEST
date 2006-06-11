@@ -1,0 +1,9 @@
+Changes
+IPStat.pm
+IPStat.xs
+Makefile.PL
+MANIFEST
+README
+test.pl
+META.yml                                 Module meta-data (added by MakeMaker)
+SIGNATURE

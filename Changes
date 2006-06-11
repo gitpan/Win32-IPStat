@@ -1,0 +1,9 @@
+Revision history for Perl extension Win32::IPStat.
+
+0.02  Sat May 27 2006
+	- added SIGNATURE
+	
+0.01  Tue Sep  7 14:26:15 2004
+	- original version; created by h2xs 1.21 with options
+		-n Win32::IPStat -s GetIPStat -v 0.01
+
